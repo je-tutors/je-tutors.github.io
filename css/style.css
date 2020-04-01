@@ -4360,8 +4360,8 @@ input[type="button"].btn-block {
   background-size: 1rem 1rem; }
 
 .progress-bar-animated {
-  -webkit-animation: progress-bar-stripes 1s linear infinite;
-  animation: progress-bar-stripes 1s linear infinite; }
+  -webkit-animation: progress-bar-stripes 7s linear infinite;
+  animation: progress-bar-stripes 7s linear infinite; }
   @media (prefers-reduced-motion: reduce) {
     .progress-bar-animated {
       -webkit-animation: none;
